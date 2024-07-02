@@ -1,0 +1,14 @@
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\bin\Debug\net8.0\TraditionalDependency.exe
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\bin\Debug\net8.0\TraditionalDependency.deps.json
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\bin\Debug\net8.0\TraditionalDependency.runtimeconfig.json
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\bin\Debug\net8.0\TraditionalDependency.dll
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\bin\Debug\net8.0\TraditionalDependency.pdb
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\obj\Debug\net8.0\TraditionalDependency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\obj\Debug\net8.0\TraditionalDependency.AssemblyInfoInputs.cache
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\obj\Debug\net8.0\TraditionalDependency.AssemblyInfo.cs
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\obj\Debug\net8.0\TraditionalDependency.csproj.CoreCompileInputs.cache
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\obj\Debug\net8.0\TraditionalDependency.dll
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\obj\Debug\net8.0\refint\TraditionalDependency.dll
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\obj\Debug\net8.0\TraditionalDependency.pdb
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\obj\Debug\net8.0\TraditionalDependency.genruntimeconfig.cache
+C:\Users\letha\source\repos\DependencyInjection\TraditionalDependency\obj\Debug\net8.0\ref\TraditionalDependency.dll

@@ -1,0 +1,14 @@
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\obj\Debug\net8.0\DIEX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\obj\Debug\net8.0\DIEX1.AssemblyInfoInputs.cache
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\obj\Debug\net8.0\DIEX1.AssemblyInfo.cs
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\obj\Debug\net8.0\DIEX1.csproj.CoreCompileInputs.cache
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\bin\Debug\net8.0\DIEX1.exe
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\bin\Debug\net8.0\DIEX1.deps.json
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\bin\Debug\net8.0\DIEX1.runtimeconfig.json
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\bin\Debug\net8.0\DIEX1.dll
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\bin\Debug\net8.0\DIEX1.pdb
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\obj\Debug\net8.0\DIEX1.dll
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\obj\Debug\net8.0\refint\DIEX1.dll
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\obj\Debug\net8.0\DIEX1.pdb
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\obj\Debug\net8.0\DIEX1.genruntimeconfig.cache
+C:\Users\letha\source\repos\DependencyInjection\DIEX1\obj\Debug\net8.0\ref\DIEX1.dll

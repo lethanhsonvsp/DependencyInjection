@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\letha\\source\\repos\\DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3D43A9-4B97-49E5-9954-A41EA9619DEA}|JsonConfigurationExample\\JsonConfigurationExample.csproj|c:\\users\\letha\\source\\repos\\dependencyinjection\\jsonconfigurationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3D43A9-4B97-49E5-9954-A41EA9619DEA}|JsonConfigurationExample\\JsonConfigurationExample.csproj|solutionrelative:jsonconfigurationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252CE589-5103-46BA-81E5-38E0B2CFC5B9}|OptionsExample\\OptionsExample.csproj|c:\\users\\letha\\source\\repos\\dependencyinjection\\optionsexample\\optionsexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{252CE589-5103-46BA-81E5-38E0B2CFC5B9}|OptionsExample\\OptionsExample.csproj|solutionrelative:optionsexample\\optionsexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66CE24B-920C-4C06-B6F9-E74767AB5B17}|DependencyInversion\\DependencyInversion.csproj|c:\\users\\letha\\source\\repos\\dependencyinjection\\dependencyinversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66CE24B-920C-4C06-B6F9-E74767AB5B17}|DependencyInversion\\DependencyInversion.csproj|solutionrelative:dependencyinversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4F4B48-7427-4782-9BD3-6B8EBE97E96E}|DependencyInjectionExample\\DependencyInjectionExample.csproj|c:\\users\\letha\\source\\repos\\dependencyinjection\\dependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4F4B48-7427-4782-9BD3-6B8EBE97E96E}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\source\\repos\\DependencyInjection\\JsonConfigurationExample\\Program.cs",
+              "RelativeDocumentMoniker": "JsonConfigurationExample\\Program.cs",
+              "ToolTip": "C:\\Users\\letha\\source\\repos\\DependencyInjection\\JsonConfigurationExample\\Program.cs",
+              "RelativeToolTip": "JsonConfigurationExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:44:38.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OptionsExample",
+              "DocumentMoniker": "C:\\Users\\letha\\source\\repos\\DependencyInjection\\OptionsExample\\OptionsExample.csproj",
+              "RelativeDocumentMoniker": "OptionsExample\\OptionsExample.csproj",
+              "ToolTip": "C:\\Users\\letha\\source\\repos\\DependencyInjection\\OptionsExample\\OptionsExample.csproj",
+              "RelativeToolTip": "OptionsExample\\OptionsExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T06:44:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\source\\repos\\DependencyInjection\\DependencyInversion\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInversion\\Program.cs",
+              "ToolTip": "C:\\Users\\letha\\source\\repos\\DependencyInjection\\DependencyInversion\\Program.cs",
+              "RelativeToolTip": "DependencyInversion\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:39:33.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\source\\repos\\DependencyInjection\\DependencyInjectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\letha\\source\\repos\\DependencyInjection\\DependencyInjectionExample\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA3wBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:36:10.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

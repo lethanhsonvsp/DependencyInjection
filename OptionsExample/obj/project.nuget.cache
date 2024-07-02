@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9LUQ2hhmFrg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\letha\\source\\repos\\DependencyInjection\\OptionsExample\\OptionsExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\letha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\letha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\letha\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\letha\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
